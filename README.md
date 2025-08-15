@@ -1,4 +1,4 @@
-# Catbox Paste Upload
+# Twitter URL rewrite
 
 A Tampermonkey userscript that rewrites Twitter urls in the browser to [nitter](https://nitter.net/), an anonymous Twitter viewer with no tracking.
 
